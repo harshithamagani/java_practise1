@@ -1,4 +1,4 @@
-package com.pract15.questions.linkedlist;
+package com.interview.programs;
 
 public class Node {
 	int data;
